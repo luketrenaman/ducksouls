@@ -24,13 +24,15 @@ func get_input(delta):
 		if Input.is_action_pressed("right") or Input.is_action_just_pressed("right"):
 			MOVE_VECTOR += Vector2(1,0)
 			self.scale.x = 1
-		waiting_x = WAIT_TIME
+		if MOVE_VECTOR.x != 0:
+			waiting_x = WAIT_TIME
 	if waiting_y <= 0:
 		if Input.is_action_pressed("up") or Input.is_action_just_pressed("up"):
 			MOVE_VECTOR += Vector2(0,-1)
 		if Input.is_action_pressed("down") or Input.is_action_just_pressed("down"):
 			MOVE_VECTOR += Vector2(0,1)
-		waiting_y = WAIT_TIME
+		if MOVE_VECTOR.y != 0:
+			waiting_y = WAIT_TIME
 	if MOVE_VECTOR == Vector2(0,0):
 		return
 	if (self.position + MOVE_VECTOR).x < 0:
