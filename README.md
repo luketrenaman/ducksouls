@@ -1,5 +1,5 @@
 # Duck Souls
-Welcome to **Duck Souls**, a souls-like game built for web. Looking to get killed by a duck that commands pillars of fire? You're in the right place! You can play it on [luketrenaman.com](https://luketrenaman.com/ducksouls) or [itch.io](luketrenaman.itch.io/ducksouls). Move with WASD and go on a walk if you get mad.
+Welcome to **Duck Souls**, a souls-like game built for web. Looking to get killed by a duck that commands pillars of fire? You're in the right place! You can play it on [luketrenaman.com](https://luketrenaman.com/ducksouls) or [itch.io](https://luketrenaman.itch.io/ducksouls). Move with WASD and go on a walk if you get mad.
 ## Development Process
 This game was produced in a mini game-jam with Gabe Salazar. The rules were as follows:
 
