@@ -54,3 +54,6 @@ I also fine tuned the following:
 
 ## Conclusion
 All-in-all, the game took 6 hours and 30 minutes, but if you squint hard enough, it only took us 3 hours and 30 minutes to make this beautiful work of art: Duck Souls. If you haven't played it already, I highly recommend doing so! To further amplify your experience, play [this music](https://www.youtube.com/watch?v=Z9dNrmGD7mU) as you face the duck. Good luck!
+
+## License
+The source code to Duck Souls is under the MIT license, but this not apply to the game assets (images) made by Gabe Salazar.
